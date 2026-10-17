@@ -32,19 +32,20 @@
     }
 
     main section {
-      max-width: 400px;
-      margin: 160px auto;
+      /* max-width: 380px; */
+      padding: 160px 0;
+      background-color: #FAFAF9;
     }
 
-    .card {
+    .card-container {
       width: 370px;
-      padding: 16px;
       box-shadow: 8px 8px 20px 0px rgba(85, 85, 85, 0.08);
-      background-color: #FFFFFF;
+       border-radius: 16px;
+       margin: 0 auto;
     }
-
-    .content {
-      border: 16px 16px 0 0;
+    .card {      
+      padding: 16px;
+      background-color: #FFFFFF;
     }
 
     figure {
@@ -77,6 +78,7 @@
       font-size: 0.875rem;
       color: #394150;
       font-weight:300;
+      line-height: 24px;
     }
 
     .bordered-div {
@@ -84,10 +86,9 @@
       padding: 20px 16px 20px 16px;
       border-radius: 0 0 16px 16px;
       font-size: 0.75rem;
-      background-color: #FAFAF9;
+      background-color: #FFFFFF;
       color: #394150;
       width: 370px;
-      box-shadow: 8px 8px 20px 0px rgba(85, 85, 85, 0.08);
     }
 
     .author-info {
@@ -108,20 +109,20 @@
   <header></header>
   <main>
     <section>
-      <div class="card">
-        <div class="content">
-          <figure>
-            <img src="./resources/Cactus.jpg" alt="Cactus image">
-          </figure>
-          <div class="design">Design</div>
-
-          <h3>Embracing Minimalism</h3>
-
-          <p class="description">From minimalist sculptures to minimalist paintings, this blog will inspire you to
-            appreciate the beauty that lies in simplicity.</p>
+      <div class="card-container">
+        <div class="card">
+            <figure>
+              <img src="./resources/Cactus.jpg" alt="Cactus image">
+            </figure>
+            <div class="design">Design</div>
+  
+            <h3>Embracing Minimalism</h3>
+  
+            <p class="description">From minimalist sculptures to minimalist paintings, this blog will inspire you to
+              appreciate the beauty that lies in simplicity.</p>
         </div>
+        <div class="bordered-div">Annie Spratt</div>
       </div>
-      <div class="bordered-div">Annie Spratt</div>
 
     </section>
   </main>
