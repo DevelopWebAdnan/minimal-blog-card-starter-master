@@ -38,7 +38,7 @@
 
 ## Overview
 
-![screenshot](https://i.ibb.co.com/ghPbKJJ/screencapture-developwebadnan-github-io-minimal-blog-card-starter-master-2026-10-17-19-24-17.png)
+![screenshot](https://i.ibb.co.com/W4MJCFWp/screencapture-github-io-2026-10-17-23-16-26.png)
 
 <!--
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
@@ -58,7 +58,7 @@ I learned that we may sometimes think that we may not need to use one of the pro
 - [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
 - [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
 -->
-Like the previous challenge, the provided resources like the designs for desktop, tablet and mobile, the mentioned colors, and the mentioned typographies at [Solution Editor | devchallenges.io | devChallenges](https://devchallenges.io/editor/solution/69977)- These have given me advantages while matching my site with the provided design that is, during the final stages. But the most helpful one among the provided resources was the thumbnail containing different measurements.
+Like the previous challenge, the provided resources like the designs for desktop, tablet and mobile, the mentioned colors, and the mentioned typographies at [Solution Editor | devchallenges.io | devChallenges](https://devchallenges.io/editor/solution/69977) - These have given me advantages while matching my site with the provided design that is, during the final stages. But the most helpful one among the provided resources was the thumbnail containing different measurements.
 ### Built with
 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
@@ -76,7 +76,7 @@ The feature of my application is a blog card containing just a single blog.
 ## Acknowledgements
 
 <!-- This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For exmpale -->
-I think GoFullPage Screen Capture extension helped me while taking a screenshot of my whole site.
+I think GoFullPage Screen Capture extension has helped me while taking a screenshot of my whole site.
 ## Author
 
 - Website [Minimal Blog Card](https://developwebadnan.github.io/minimal-blog-card-starter-master/)
